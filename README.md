@@ -16,5 +16,5 @@ JavaScript — interacción básica (cambios de color al hacer clic)
 Visualización ordenada del abecedario completo de la A a la Z.
 Cada letra incluye una imagen asociada.
 Los textos con clase random_color cambian de color al hacer clic gracias a JavaScript.
-Los elementos <h5> también cambian de color aleatoriamente al presionarlos.
+Los elementos h5 también cambian de color aleatoriamente al presionarlos.
 Diseño simple y desplazamiento suave por la página.
