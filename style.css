@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+body {
+  background-color: rgb(209, 205, 205);
+}
+img {
+    width: 500px;
+    margin: auto;
+    padding-bottom: 50px;
+} 
+h3 {
+  color: rgb(48, 176, 5);
+}
+
+h5{
+  color: white;
+}
+
+.blue {
+  color: rgb(15, 15, 155);
+}
+
+#red {
+  color: rgb(250, 66, 66);
+}
