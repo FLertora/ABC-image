@@ -18,3 +18,5 @@ Cada letra incluye una imagen asociada.
 Los textos con clase random_color cambian de color al hacer clic gracias a JavaScript.
 Los elementos h5 también cambian de color aleatoriamente al presionarlos.
 Diseño simple y desplazamiento suave por la página.
+
+@ FRONT LOOPERS
